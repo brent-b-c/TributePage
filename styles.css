@@ -10,3 +10,12 @@ img{
 h1, p, h2, h3{
     text-align: center;
 }
+div{
+    text-align: center;
+    
+}
+
+.img-container{
+    text-align: center;
+    margin-top: 20px;
+}
